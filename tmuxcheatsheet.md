@@ -1,4 +1,4 @@
-#TMUX cheat sheet Juho Kaartinen
+# TMUX cheat sheet Juho Kaartinen
 
 ## Something to come
 
